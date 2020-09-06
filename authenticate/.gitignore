@@ -1,0 +1,5 @@
+authenticate/secrets.py
+authenticate/__pycache__/
+user_example/__pycache__/
+user_example/migrations/__pycache__/
+db.sqlite3
